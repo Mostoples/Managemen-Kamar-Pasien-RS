@@ -1,0 +1,8 @@
+FTP : 103.47.60.181 PORT : 21
+USER : rsudsulfatc86
+password : qwerty321
+
+
+winscp
+username : admin
+password : l3k4ssembuh
